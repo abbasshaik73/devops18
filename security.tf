@@ -28,5 +28,3 @@ resource "aws_security_group" "web_server" {
    }
 }
 
-hello hii 
-hello
